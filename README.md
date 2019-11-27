@@ -1,13 +1,12 @@
 # W02D04-jQuery
 
-## JQuery
-
-jQuery is a JavaScript Library. <br>
-
 
 
 
 ## What is jQuery?
+
+jQuery is a JavaScript Library. <br>
+
 jQuery is a lightweight, "write less, do more", JavaScript library. <br>
 
 The purpose of jQuery is to make it much easier to use JavaScript on your website. <br>
