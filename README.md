@@ -1,4 +1,4 @@
-# W02D04-Jquery
+# W02D04-jQuery
 
 ## JQuery
 
