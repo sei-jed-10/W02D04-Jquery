@@ -4,9 +4,7 @@
 
 jQuery is a JavaScript Library. <br>
 
-jQuery greatly simplifies JavaScript programming. <br>
 
-jQuery is easy to learn. <br>
 
 
 ## What is jQuery?
@@ -27,9 +25,13 @@ Effects and animations<br>
 AJAX<br>
 
 ## Why jQuery?
-There are lots of other JavaScript libraries out there, but jQuery is probably the most popular, and also the most extendable.
+There are lots of other JavaScript libraries out there, but jQuery is probably the most popular, and also the most extendable. <br>
 
-Many of the biggest companies on the Web use jQuery, such as:
+jQuery greatly simplifies JavaScript programming. <br>
+
+jQuery is easy to learn. <br>
+
+Many of the biggest companies on the Web use jQuery, such as: <br>
 
 Google <br>
 Microsoft <br>
