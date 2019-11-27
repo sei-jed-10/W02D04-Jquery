@@ -243,5 +243,54 @@ $(document).ready(function(){
 
 ```
 
+## Events
+
+All the different visitors' actions that a web page can respond to are called events. <br>
+
+An event represents the precise moment when something happens. <br>
+
+Examples:
+
+moving a mouse over an element <br>
+selecting a radio button <br>
+clicking on an element <br>
+
+Here are some common DOM events:
+
+<table class="w3-table-all notranslate">
+<tbody><tr>
+<th style="width:23%">Mouse Events</th>
+<th style="width:25%">Keyboard Events</th>
+<th style="width:22%">Form Events</th>
+<th>Document/Window Events</th>
+</tr>
+<tr>
+<td>click</td>
+<td>keypress</td>
+<td>submit</td>
+<td>load</td>
+</tr>
+<tr>
+<td>dblclick</td>
+<td>keydown</td>
+<td>change</td>
+<td>resize</td>
+</tr>
+<tr>
+<td>mouseenter</td>
+<td>keyup</td>
+<td>focus</td>
+<td>scroll</td>
+</tr>
+<tr>
+<td>mouseleave</td>
+<td>&nbsp;</td>
+<td>blur</td>
+<td>unload</td>
+</tr>
+</tbody></table>
+
+
+
 
 
