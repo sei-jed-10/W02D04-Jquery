@@ -942,3 +942,14 @@ $(document).ready(function(){
 </html>
 
 ```
+
+
+#jQuery Quiz
+```html
+https://www.w3schools.com/quiztest/quiztest.asp?qtest=jQuery
+```
+
+#jQuery Exercise
+```html
+https://www.w3schools.com/jquery/jquery_exercises.asp
+```
