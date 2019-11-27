@@ -55,30 +55,7 @@ https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 Minification refers to the process of removing unnecessary or redundant data without affecting how the resource is processed by the browser.<br>
 
 
- Example:
- 
- ```html
-<!DOCTYPE html>
-<html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  $("p").click(function(){
-    $(this).hide();
-  });
-});
-</script>
-</head>
-<body>
 
-<p>If you click on me, I will disappear.</p>
-<p>Click me away!</p>
-<p>Click me too!</p>
-
-</body>
-</html>
-```
 
 
 
@@ -114,6 +91,32 @@ $(document).ready(function(){
 
 });
 This is to prevent any jQuery code from running before the document is finished loading (is ready).
+```
+
+
+ ### A Working Example:
+ 
+ ```html
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("p").click(function(){
+    $(this).hide();
+  });
+});
+</script>
+</head>
+<body>
+
+<p>If you click on me, I will disappear.</p>
+<p>Click me away!</p>
+<p>Click me too!</p>
+
+</body>
+</html>
 ```
 
 ## jQuery Selectors
