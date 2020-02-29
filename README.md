@@ -945,12 +945,12 @@ $(document).ready(function(){
 ```
 
 
-#jQuery Quiz
+# jQuery Quiz
 ```html
-https://www.w3schools.com/quiztest/quiztest.asp?qtest=jQuery
+- [Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=jQuery)
 ```
 
-#jQuery Exercise
+# jQuery Exercise
 ```html
-https://www.w3schools.com/jquery/jquery_exercises.asp
+- [Exercise](https://www.w3schools.com/jquery/jquery_exercises.asp)
 ```
