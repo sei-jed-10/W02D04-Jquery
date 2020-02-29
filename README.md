@@ -946,11 +946,7 @@ $(document).ready(function(){
 
 
 # jQuery Quiz
-```html
 - [Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=jQuery)
-```
 
 # jQuery Exercise
-```html
 - [Exercise](https://www.w3schools.com/jquery/jquery_exercises.asp)
-```
